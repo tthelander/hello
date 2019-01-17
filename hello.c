@@ -1,5 +1,5 @@
 /**
- * Author: Trevor Thelander and Drew Borchers
+ * Author: Trevor Thelander and Drew Borchers, and Francisco Padilla
  * Date: 2019/1/15
  *
  * A simple hello world program in C
